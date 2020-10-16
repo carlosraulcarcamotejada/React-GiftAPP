@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import {GifExpertApp} from './components/GifExpertApp'
 
-import GifExpertApp from './components/GifExpertApp/GifExpertApp';
+
 
 
 ReactDOM.render(

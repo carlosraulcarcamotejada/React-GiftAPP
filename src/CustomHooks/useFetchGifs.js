@@ -16,7 +16,7 @@ const useFetchGifs = (category) => {
                 (imgs) => {
                     setData({
                         data: imgs,
-                        loading: true
+                        loading: false
                     });
                    
                 }
